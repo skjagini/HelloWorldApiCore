@@ -1,3 +1,2 @@
-﻿cd /Musiq
-dotnet HelloWorldApiCore.dll 
+﻿dotnet HelloWorldApiCore.dll 
 
