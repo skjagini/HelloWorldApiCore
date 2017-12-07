@@ -13,7 +13,7 @@ namespace HelloWorldApiCore.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2a" };
+            return new string[] { "value1", "value2b" };
         }
 
         // GET api/values/5
