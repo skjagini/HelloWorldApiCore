@@ -7,7 +7,3 @@ files:
 permissions:
    - object: /Musiq/startApp.sh
      mode: 777
-hooks:
-  BeforeInstall:
-    - location: startApp.sh
-      timeout: 10
