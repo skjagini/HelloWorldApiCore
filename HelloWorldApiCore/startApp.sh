@@ -1,2 +1,3 @@
 ﻿cd /Musiq
-dotnet run
+dotnet HelloWorldApiCore.dll --server.urls:http://*:57325
+
