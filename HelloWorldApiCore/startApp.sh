@@ -1,1 +1,2 @@
-﻿dotnet run
+﻿cd /Musiq/startApp.sh
+dotnet run
