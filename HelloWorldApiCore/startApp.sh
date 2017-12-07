@@ -2,6 +2,6 @@
 echo "PWD"
 echo $PWD
 
-dotnet /Music/HelloWorldApiCore.dll 
+dotnet /Musiq/HelloWorldApiCore.dll 
 exit 0
 
